@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. Whereas of late yeeres, there hath ben an intermission of the free traffike of marchants  ...</title>
+            <title>Proclamations. 1576-11-10</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21771</idno>
+            <idno type="STC">STC 8085</idno>
+            <idno type="STC">ESTC S112144</idno>
+            <idno type="EEBO-CITATION">99847402</idno>
+            <idno type="PROQUEST">99847402</idno>
+            <idno type="VID">12435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12435)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 456:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. Whereas of late yeeres, there hath ben an intermission of the free traffike of marchants  ...</title>
+                  <title>Proclamations. 1576-11-10</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Richarde Iugge [i.e. B. Norton and J. Bill], printer to the Queenes Maiesty,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[c. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printers' names and publication date from STC.</note>
+                  <note>A proclamation restoring trade with Portugal.</note>
+                  <note>Sheet 1, line 1 of text ends: "traffike"--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Portugal --  Early works to 1800.</term>
+               <term>Portugal --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:12435:1"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas of late yeeres, there hath ben an intermiſſion of the free traffike of Marchants, betwixt the kingdomes and countreys of the Queenes Maieſtie of England, and the king of Portugall, by reaſon of certaine ſtayes and arreſts made of diuers ſubiects on both partes, with their goods and ſhyps, to the hynderaunce and diſcommoditie of both the ſayd Realmes and kyngdomes, without any intention of either of the ſayd Princes to breake or violate the auncient amities and con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ederati<g ref="char:EOLhyphen"/>ons continuing in force betwixt them, or to diſcontinue the ſayd traffike: but that, as it appeareth, the ſame arreſtes haue ben firſt occaſioned by perſons regarding more their priuate gaine, then the continuaunce of ſuch an auncient amitie, nouriſhed and maintayned by the mutual com<g ref="char:EOLhyphen"/>merce of the ſubiects on eyther part. So it is, that both their Maieſties good meanings towardes the continuance of their mutuall amitie, and reſtoring of the ſayd traffike, being made knowen from the one to the other by ſuch their good miniſters as haue beene herein vſed: Therefore it is in their names accorded, that all maner ſubiects of both the ſayd Princes, of what kingdome or Countrey ſo euer they be, from the xv. day of this preſent moneth of Nouember, ſhall and may from the ſayde time vſe the like mutuall traffike for Marchandizes, and in the ſame places: that is to ſay, her Ma<g ref="char:EOLhyphen"/>ieſties ſubiects, in the kingdomes of Portugall and Algarbia, and in the Iles of Medera and Azore: and likewiſe the ſubiects of the kyng of Portugal, in England and Ireland, as they were lawfully accuſtomed before the ſaid arreſtes. And for that it is meant, that all occaſions of controuerſies and differences, that haue happened betwixt the ſubiects of either part, ſince the time of the ſayd arreſts, ſhould be heard and determined: It is ordeyned, that this reſtitution of the traffike, ſhall remayne from the ſaid xv day of Nouember, during the ſpace of three yeeres next enſuing, to the intent that diuers Commiſſioners (to be appointed by the ſaid Princes withithin three moneths after the ſayde xv day of this Nouember) may ſpeedily heare, order, and determine, ſuch differences: And that at the end of the ſayd three yeeres, yf by the ſayd Princes in the meane time it be not otherwiſe prouided for continuaunce of the ſayd traffike to haue a perpetuall continuaunce, no new arreſtes ſhalbe made of any things brought into the kingdomes and Iles aforeſayd, of eyther of the ſayd princes, during the time of the ſayd three yeeres. Wherefore the Queenes Maieſtie hath thought it neceſſary, like as it is agreed, that they ſayd king of Portugall ſhall do the like, to notifie to all her ſubiects the pre<g ref="char:EOLhyphen"/>miſſes, to thintent they may (as they ſhall finde meet and conuenient) reſort to the kingdomes and Ilandes aforeſayd of the ſayd king, and there vſe the lawfull and free traffike of Marchaundizes, as before the laſt reſtraynt was lawfully by them vſed: Charging them to geue none occaſion of of<g ref="char:EOLhyphen"/>fence to the ſaid king or his ſubiects, but to behaue themſelues in ſuch ſort, as thamitie betwixt the ſayd Princes, and traffike betwixt their ſubiects may continue, to the honor and comfort of the Prin<g ref="char:EOLhyphen"/>ces and the mutuall concord and benefite of their people. The like whereof, it is accorded ſhall bee performed on the ſaid kings part, for him and his ſubiects, reſorting into any of her Maieſties domi<g ref="char:EOLhyphen"/>nions: to whom alſo ſhalbe ſhewed like fauor for maintenance of their ſaid traffike, as in times paſt before the arreſt hath ben. And for more full &amp; ample declaration of both their Maieſties good in<g ref="char:EOLhyphen"/>tens, for the preſeruation of the ſayd amitie and friendſhip betweene them, and their ſayd Realmes and ſubiects: it is ordered and agreed on both parts, that neither of their ſaid Maieſties ſhall receiue any Pirate or Rouer, into any of the Portes or Creekes of either of their Realmes, Dominions, and Countreys, which may, and ſhall haue committed any piracie or robberie vpon eyther of their Sub<g ref="char:EOLhyphen"/>iectes, nor ſhall ſhew any fauour, giue any ayde or ſuccour, or ſuffer any to be geuen directly or indi<g ref="char:EOLhyphen"/>rectly to the ſayde Rouers or Pirates. And moreouer, that neither of theyr ſayde Maieſties ſhall, duryng the time of the ſayde amitie and friendſhippe, in either of their kyngdomes, or any place of their Dominions, fauour, entertaine, receiue, or reteyne, nor ſuffer to be fauoured, enterteyned, re<g ref="char:EOLhyphen"/>ceyued, or reteyned, by any of their ſubiects, any Rebels, Traytours, or Fugitiues, ſubiects to either of their ſayd Maieſties, nor geue any ayde, fauour, or aſſiſtance, or ſuffer to bee geuen, to any ſuch
+<pb facs="tcp:12435:2"/> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is, Traytours, or Fugitiues. Her Maieſtie therefore chargeth, and ſtraightly commaundeth, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no ſuch Rouer or Pirate, hauing committed any ſpoyle or outrage vpon any of the ſayd Kings <gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>cts, be hereafter receyued or ſuffered within any of her Maieſties Ports or Creekes: neither <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the ſayd Princes Rebels, Traytours, or Fugitiues (being publiſhed, or otherwiſe notified to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch be receyued, fauoured, or maynteyned within any of her Maieſties Dominions, vpon payne of her Maieſties high diſpleaſure, and as they will aunſwere to it at their vttermoſt perils. And for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it may fall out, by reaſon of the publication of this preſent accord here within her Maieſties Dominions, that ſome of her Maieſties ſubiects may happen to traffike into the kyngs ſayd king<g ref="char:EOLhyphen"/>domes, and for want of not vnderſtanding this preſent concluſion and agreement, by the ſaid kings <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſter, be arreſted there: it is alſo accorded, that vpon notice geuen vnto the ſayd king, the ſhippes is arreſted after the ſayd xv. day of this Nouember, ſhalbe immediatly releaſed, without any fur<g ref="char:EOLhyphen"/>ther proceſſe of lawe, vpon bare notice and intimation of the ſame. And for better aſſurance of her Maieſties ſaid ſubiects in their quiet and free trafike, it is promiſed by the kings Ambaſſadour here, but he will giue letters of notification of the ſayde concluſion to the king his maiſter, vnto all ſuch marchants and ſubiects as ſhall require the ſame, for their better ſafety. Whereof her Maieſtie thought it neceſſary to make this offer of aſſurance promiſed by the ſayde Ambaſſador in the name of the king his maiſter, to be knowen vnto her ſayde ſubiects, to thende they may be better aſſured how to deale, and what meanes they haue to vſe for their ſafety, in caſe any ſuch arreſt ſhould hap<g ref="char:EOLhyphen"/>pen, vntill like publication be made within the ſayd Kings Realmes and Dominions, as is here pu<g ref="char:EOLhyphen"/>bliſhed on her Maieſties part.</p>
+            <closer>
+               <dateline>Geuen at Hampton Court <date>the x. day of Nouember. 1576 in the xviii. yeere of her Maieſties raigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Richard Iugge, Printer to the Queenes Maieſty.</p>
+            <p>
+               <hi>Cum priuilegio Regia Maieſtatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
